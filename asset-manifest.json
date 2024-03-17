@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/react-prac/static/css/main.fe9ae732.css",
-    "main.js": "/react-prac/static/js/main.947a6a89.js",
+    "main.css": "/react-prac/static/css/main.6b807c7d.css",
+    "main.js": "/react-prac/static/js/main.4f99b1fe.js",
     "static/js/453.ede2c593.chunk.js": "/react-prac/static/js/453.ede2c593.chunk.js",
     "static/media/MaruBuri-Regular.otf": "/react-prac/static/media/MaruBuri-Regular.87f7d3edaabb71d870ee.otf",
+    "static/media/YeojuCeramic.otf": "/react-prac/static/media/YeojuCeramic.5021a5de1553f5723b10.otf",
     "index.html": "/react-prac/index.html",
-    "main.fe9ae732.css.map": "/react-prac/static/css/main.fe9ae732.css.map",
-    "main.947a6a89.js.map": "/react-prac/static/js/main.947a6a89.js.map",
+    "main.6b807c7d.css.map": "/react-prac/static/css/main.6b807c7d.css.map",
+    "main.4f99b1fe.js.map": "/react-prac/static/js/main.4f99b1fe.js.map",
     "453.ede2c593.chunk.js.map": "/react-prac/static/js/453.ede2c593.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe9ae732.css",
-    "static/js/main.947a6a89.js"
+    "static/css/main.6b807c7d.css",
+    "static/js/main.4f99b1fe.js"
   ]
 }
